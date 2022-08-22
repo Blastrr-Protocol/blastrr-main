@@ -21,7 +21,7 @@ const Footer = () => {
                     </div>
                     <div className="col-sm=12 col-md-3 col-lg-3">
                         <h3>Contact:</h3>
-                        <a href="mailto:info@gmail.com"> <i className="fas fa-envelope me-2"></i>info@gmail.com</a>
+                        <a href="mailto:info@gmail.com"> <i className="fas fa-envelope me-2"></i>info@blastrr.com</a>
                     </div>
                 </div>
                 <div className='row mt-5 mb-3'>
