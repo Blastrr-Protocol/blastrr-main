@@ -9,7 +9,7 @@ const Home = () => {
                             <h1 className="head_title">
                                 <span>The Highest Paying Coin in Africa -</span><br />
                                 <span className="head_title_animated">
-                                    <span className="">100% Liquidty Locked until 2042</span>
+                                    <span className="">100% Liquidty Locked</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M7.7,145.6C109,125,299.9,116.2,401,121.3c42.1,2.2,87.6,11.8,87.3,25.7"></path></svg>
                                 </span>
                             </h1>
@@ -73,9 +73,6 @@ const Home = () => {
             <section className='about-section'>
                 <div className='container'>
                     <div className='row align-items-center'>
-                        <div className="col-sm-12 col-md-6 col-lg-3">
-                            <img src={require('../assets/images/bscscan.png')} className="img-fluid" alt="bscscan" />
-                        </div>
                         <div className="col-sm-12 col-md-6 col-lg-3">
                             <img src={require('../assets/images/coingecko.png')} className="img-fluid" alt="coingecko" />
                         </div>
