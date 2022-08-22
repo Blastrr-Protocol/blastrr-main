@@ -5,7 +5,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-sm=12 col-md-6 col-lg-6">
                         <img src={require('../assets/images/logo.png')} className="foo-logo" alt="logo" />
-                        <h2>LOCK, EARN, Cash Out</h2>
+                        <h2>BUY, HOLD and EARN</h2>
                         <p>Crytocurrency is a high risk investment and may result in total loss. DYOR</p>
                     </div>
                     <div className="col-sm=12 col-md-3 col-lg-3">
