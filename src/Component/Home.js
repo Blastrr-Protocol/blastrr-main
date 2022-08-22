@@ -5,9 +5,9 @@ const Home = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12 col-md-6 col-lg-7">
-                            {/* <h2 className="head_sub_title">Finally, the World's First <u>Anti-Dump Mechanism</u> to protect your investment as you cash in on a super-high APY.</h2> */}
+                            {/* <h2 className="head_sub_title">Finally, the World's First <u>Auto-Everyhting Token</u> to protect your investment as you cash in on a super-high APY.</h2> */}
                             <h1 className="head_title">
-                                <span>The Highest Paying Coin in the World -</span><br />
+                                <span>The Highest Paying Coin in Africa -</span><br />
                                 <span className="head_title_animated">
                                     <span className="">Without The Big Dumps</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M7.7,145.6C109,125,299.9,116.2,401,121.3c42.1,2.2,87.6,11.8,87.3,25.7"></path></svg>
@@ -20,7 +20,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Highest Fixed APY in Crypto – 383,025.80%</p>
+                                            <p>Highest Fixed APY in Crypto – 383,025%</p>
                                         </div>
                                     </div>
                                 </li>
@@ -97,7 +97,7 @@ const Home = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12 col-md-12 col-lg-12 text-center">
-                            <h1 className="head_title mb-4">The Greatest Auto-Staking Protocol with an ADM that keeps Your Investment Secured!</h1>
+                            <h1 className="head_title mb-4">The Greatest Auto-Staking Protocol with 100% Liquidity Locked that keeps Your Investment Secured!</h1>
                         </div>
                     </div>
                     <div className="row align-items-center mt-5">
@@ -116,7 +116,7 @@ const Home = () => {
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-6">
                             <h4 className="section_title">About</h4>
-                            <p>blastrr provides a decentralized financial asset which rewards users with a sustainable fixed compound interest model through use of it’s unique SAP protocol. </p>
+                            <p>blastrr provides a decentralized financial asset which rewards users with a sustainable fixed compound interest model through use of it’s unique BLASTRR protocol. </p>
                             <p>blastrr delivers the industry’s highest fixed APY, paid every 15 minutes, and a simple buy-hold-earn system that grows your $blastrr portfolio in your wallet at a lightning fast pace.</p>
                         </div>
                     </div>
@@ -141,7 +141,7 @@ const Home = () => {
                 <div className='container'>
                     <div className='row'>
                         <div className='col-sm-12 col-lg-12'>
-                            <h3>ʻʻblastrr with it's ADM System Gives Investors Security Like No Other Crypto on the Planet.ʼʼ</h3>
+                            <h3>ʻʻblastrr with it's Self Custody System Gives Investors Security Like No Other Crypto on the Planet.ʼʼ</h3>
                         </div>
                     </div>
                 </div>
@@ -199,22 +199,22 @@ const Home = () => {
                         <div className='col-sm-12 col-md-6 col-lg-4'>
                             <div className="token-box">
                                 <i className="fas fa-piggy-bank"></i>
-                                <h4>blastrr Insurance Fund (ECIF)</h4>
-                                <p>The ECIF serves as an insurance fund to achieve price stability and longterm sustainability of the blastrr Protocol by maintaining a consistent 0.02355% rebase rate paid to all $blastrr token holders.</p>
+                                <h4>Blastrr Insurance Fund (BIF)</h4>
+                                <p>The BIF serves as an insurance fund to achieve price stability and longterm sustainability of the blastrr Protocol by maintaining a consistent 0.02355% rebase rate paid to all $blastrr token holders.</p>
                             </div>
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-4'>
                             <div className="token-box">
                                 <i className="fas fa-university"></i>
-                                <h4>blastrr Treasury</h4>
-                                <p>The Treasury provides support to the ECIF in the event of an extreme price drop in the $blastrr token. The Treasury also funds investments, new blastrr projects and marketing for blastrr.</p>
+                                <h4>Blastrr Treasury</h4>
+                                <p>The Treasury provides support to the BIF in the event of an extreme price drop in the $blastrr token. The Treasury also funds investments, new blastrr projects and marketing for blastrr.</p>
                             </div>
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-4'>
                             <div className="token-box">
                                 <i className="fas fa-fire-alt"></i>
                                 <h4>The Fire Pit</h4>
-                                <p>2.5% of all $blastrr traded are burnt in the Fire Pit. The more that is traded, the more get put into the fire causing the fire pit to grow in size reducing the circulating supply and keeping the blastrr protocol stable.</p>
+                                <p>2.5% of all $Blastrr traded are burnt in the Fire Pit. The more that is traded, the more get put into the fire causing the fire pit to grow in size reducing the circulating supply and keeping the blastrr protocol stable.</p>
                             </div>
                         </div>
                     </div>
@@ -273,7 +273,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Unlike other coins, you will never see a dump with blastrr, because of our ADM.</p>
+                                            <p>Unlike other coins, you don't need to lock your coins and perform other actions.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -283,7 +283,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>There is a 1-5% cash out limit per day of your total tokens.</p>
+                                            <p>Your $BLASTRR token balance is auto-staking and auto-compounding in your decentralized wallet.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -293,7 +293,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>The anti-whale mechanism works based on the current metrics of the chart to determine the daily withdrawal limit.</p>
+                                            <p>You have full control over all your assets at all times.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -303,7 +303,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Just to be clear, you can withdraw money every day from your tokens, but up to the ADM limit.</p>
+                                            <p>You can buy or sell as much as you like at any time you like.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -348,7 +348,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Lock: By locking your coin, it makes it possible to give you super high APY.</p>
+                                            <p>Buy: Buying and selling is just as easy, you have full control at all times. Simply buy BLASTRR from any AMM Dex to start earning.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -358,7 +358,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Earn: You will earn 2.35% per day interest, making possible to double your investment every month, and compounding $100 into $409,600 within 12 months.</p>
+                                            <p>Hold: Just by holding your $BLASTRR tokens you earn rebase rewards every 15 minutes. Growing your balance at a compouded rate of 400,000% APY.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -368,7 +368,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>CashOut: When you're happy with your earnings, then you can cash-out up to 5% of your profits each day to achieve financial freedom.</p>
+                                            <p>Earn: You will earn 2.3555% per day interest, making possible to double your investment every month, and compounding 100 CREFI into 400,000 CREFI within 12 months.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -678,12 +678,12 @@ const Home = () => {
                                 <div className="accordion-item">
                                     <h2 className="accordion-header" id="headingOne">
                                         <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What does the blastrr acronym stand for?
+                                        What does the name Blastrr stand for?
                                         </button>
                                     </h2>
                                     <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                            Sustainable Asset Fund for Universal Users
+                                            Originally wallet Blastrr, we decided to simply the name and give it a modern edge. It does what it saysd on the tin, it will blast your balance to the moon.
                                         </div>
                                     </div>
                                 </div>
@@ -695,19 +695,7 @@ const Home = () => {
                                     </h2>
                                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        The blastrr Team is comprised of highly esteemed group of developers, marketing guru’s, and our famous CEO, Bryan Legend. We have many contacts in the cryptosphere allowing us to easily reach influencers and gain an edge vs our competitors.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="accordion-item">
-                                    <h2 className="accordion-header" id="headingThree">
-                                        <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Have you done a KYC and Dox?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div className="accordion-body">
-                                        Yes, our team has been KYC approved with PinkSale, AssureDeFi and RugDoc. Our CEO, Bryan legend is also fully doxed adding that extra layer of trust and protection.
+                                        The blastrr Team is comprised of highly esteemed group of developers and marketing guru’s. We have many contacts in the cryptosphere allowing us to easily reach influencers and gain an edge vs our competitors.
                                         </div>
                                     </div>
                                 </div>
@@ -719,7 +707,7 @@ const Home = () => {
                                     </h2>
                                     <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        Our entire protocol’s smart contract was written and developed from scratch from our own competent group of developers. It does not contain any resemblance to Titano’s code or operation as blastrr works on a completely new set of mechanics which allows for complete protocol sustainability. We also have several proprietary mechanisms in place that we have created ourselves which offers many improvements over our competition such as; our blastrr Auto-Liquidity Engine (SALE), the blastrr Insurance Fund (ECIF), our Longterm Interest Cycle (LIC), aswell as safeguards in place which secure against malicious hack attempts. blastrr’s tokenomics are also completely unique with our Auto-Burn Fire Pit structure, minimal starting supply and lower 15 minute Epoch’s for a much more linear APY progression of attainability.
+                                        Our entire protocol’s smart contract was written and developed from scratch from our own competent group of developers. It does not contain any resemblance to Titano’s code or operation as blastrr works on a completely new set of mechanics which allows for complete protocol sustainability. We also have several proprietary mechanisms in place that we have created ourselves which offers many improvements over our competition such as; our blastrr Auto-Liquidity Engine (SALE), the blastrr Insurance Fund (BIF), our Longterm Interest Cycle (LIC), aswell as safeguards in place which secure against malicious hack attempts. blastrr’s tokenomics are also completely unique with our Auto-Burn Fire Pit structure, minimal starting supply and lower 15 minute Epoch’s for a much more linear APY progression of attainability.
                                         </div>
                                     </div>
                                 </div>
@@ -731,7 +719,7 @@ const Home = () => {
                                     </h2>
                                     <div id="collapseFive" className="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        The blastrr protocol has an entirely different more comprehensive mechanism than Titano/Libero or other competitors. Our token supply is far less at only 325,000, auto burn at 2.5%, auto LP every 48 hours and the factor of rebasing at 15min intervals provides a more linear progression of sustainability. Market volume will enter revenue into the Treasury as a 2.5-4.5% tax aswell as enter an additional 5% into the blastrr Insurance Fund which more than offsets the daily interest being awarded. APY will be 100% sustained. Basically put, the more that is traded on a daily basis, the bigger the Treasury & ECIF balance grows automatically to aid with longterm sustainability and future growth. We also have a unique and proprietary blastrr Auto-Liquidity Engine (SALE) which automatically injects an additional 4% liquidity every 48 hours automatically to maintain protocol stability and to make sure the APY is upheld for the entire life of blastrr. On top of this we have our proprietary LIC model in place where after the first 12 months the interest rate reduces lower over time allowing for our protocol to be stable.
+                                        The blastrr protocol has an entirely different more comprehensive mechanism than Titano/Libero or other competitors. Our token supply is far less at only 325,000, auto burn at 2.5%, auto LP every 48 hours and the factor of rebasing at 15min intervals provides a more linear progression of sustainability. Market volume will enter revenue into the Treasury as a 2.5-4.5% tax aswell as enter an additional 5% into the blastrr Insurance Fund which more than offsets the daily interest being awarded. APY will be 100% sustained. Basically put, the more that is traded on a daily basis, the bigger the Treasury & BIF balance grows automatically to aid with longterm sustainability and future growth. We also have a unique and proprietary blastrr Auto-Liquidity Engine (SALE) which automatically injects an additional 4% liquidity every 48 hours automatically to maintain protocol stability and to make sure the APY is upheld for the entire life of blastrr. On top of this we have our proprietary LIC model in place where after the first 12 months the interest rate reduces lower over time allowing for our protocol to be stable.
                                         </div>
                                     </div>
                                 </div>
