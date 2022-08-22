@@ -250,7 +250,7 @@ const Home = () => {
                 <div className='container'>
                     <div className='row mt-5'>
                         <div className='col-sm-12 col-lg-12 text-center'>
-                            <h3>How <span className="head_title_animated"><span>The World's Best ADM </span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M7.7,145.6C109,125,299.9,116.2,401,121.3c42.1,2.2,87.6,11.8,87.3,25.7"></path></svg></span> Keeps Your Investment Safe!
+                            <h3>How <span className="head_title_animated"><span>Self Custody </span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M7.7,145.6C109,125,299.9,116.2,401,121.3c42.1,2.2,87.6,11.8,87.3,25.7"></path></svg></span> Keeps Your Investment Safe!
                             </h3>
                             <img src={require('../assets/images/gauge-sale-green.png')} alt="green sale" className='img-fluid mt-5' />
                         </div>
@@ -394,7 +394,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Buy</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">12% tax (14% slippage)</p>
+                                    <p className="elementor-icon-box-description">14% tax (14% slippage)</p>
                                 </div>
                             </div>
                         </div>
@@ -407,7 +407,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Sell</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">14% tax (17% slippage)</p>
+                                    <p className="elementor-icon-box-description">16% tax (17% slippage)</p>
                                 </div>
                             </div>
                         </div>
@@ -419,7 +419,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Automatic LP</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">1% of order fee return to liquidity</p>
+                                    <p className="elementor-icon-box-description">4% of order fee return to liquidity</p>
                                 </div>
                             </div>
                         </div>
@@ -434,7 +434,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Automatic LP</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">1% of order fee return to liquidity</p>
+                                    <p className="elementor-icon-box-description">4% of order fee return to liquidity</p>
                                 </div>
                             </div>
                         </div>
@@ -446,7 +446,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>LIF</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">6% of order fees are stored in the LIF</p>
+                                    <p className="elementor-icon-box-description">5% of order fees are stored in the LIF</p>
                                 </div>
                             </div>
                         </div>
@@ -461,7 +461,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>LIF</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">7% of order fees are stored in the LIF</p>
+                                    <p className="elementor-icon-box-description">5% of order fees are stored in the LIF</p>
                                 </div>
                             </div>
                         </div>
@@ -473,7 +473,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Treasury</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">5% of order fees go to the Treasury</p>
+                                    <p className="elementor-icon-box-description">2.5% of order fees go to the Treasury</p>
                                 </div>
                             </div>
                         </div>
@@ -488,7 +488,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Treasury</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">6% of order fees go to the Treasury</p>
+                                    <p className="elementor-icon-box-description">4.5% of order fees go to the Treasury</p>
                                 </div>
                             </div>
                         </div>
@@ -532,7 +532,7 @@ const Home = () => {
                                             <td>
                                                 <div className='d-flex align-items-center'>
                                                     <i aria-hidden="true" className="fas fa-hand-holding-usd tab-icon"></i>
-                                                    <span className='elementor-icon-list-text'>480,810%</span>
+                                                    <span className='elementor-icon-list-text'>383,000%</span>
                                                 </div>
                                             </td>
                                             <td>
