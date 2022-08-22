@@ -9,7 +9,7 @@ const Home = () => {
                             <h1 className="head_title">
                                 <span>The Highest Paying Coin in Africa -</span><br />
                                 <span className="head_title_animated">
-                                    <span className="">Without The Big Dumps</span>
+                                    <span className="">100% Liquidty Locked until 2042</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M7.7,145.6C109,125,299.9,116.2,401,121.3c42.1,2.2,87.6,11.8,87.3,25.7"></path></svg>
                                 </span>
                             </h1>
@@ -59,7 +59,7 @@ const Home = () => {
                         <div className="col-sm-12 col-md-6 col-lg-5 text-center">
                             <img src={require('../assets/images/logo.png')} alt="logo" className='img-fluid' />
                             <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 animate-btn my-5'><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy blastrr</a>
-                            <p>Set slippage to 14% on pancakeswap</p>
+                            <p>Set slippage to 14% on uniswap</p>
                             <a href="https://www.dextools.io/app/ether/pair-explorer/0x28cd4a6db738d9ca664bdbdeb7d10318064e6053" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 my-5'><i className="far fa-chart-bar"></i> Look at our healthy chart</a>
                         </div>
                     </div>
@@ -81,9 +81,6 @@ const Home = () => {
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-3">
                             <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="coinmarketcap" />
-                        </div>
-                        <div className="col-sm-12 col-md-6 col-lg-3">
-                            <img src={require('../assets/images/pancakeswap.png')} className="img-fluid" alt="pancakeswap" />
                         </div>
                     </div>
                 </div>
@@ -339,7 +336,7 @@ const Home = () => {
                             <img src={require('../assets/images/lllustration-2.png')} alt="lllustration" className='img-fluid' />
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-6 mt-5'>
-                            <h3 className="heading-title text-center">LOCK - EARN <span className="head_title_animated">CASHOUT<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7"></path></svg></span></h3>
+                            <h3 className="heading-title text-center">BUY - HOLD <span className="head_title_animated">EARN<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7"></path></svg></span></h3>
 
                             <ul className="list">
                                 <li className='mb-4'>
