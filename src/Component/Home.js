@@ -257,7 +257,7 @@ const Home = () => {
                     </div>
                     <div className='row mt-5 align-items-center'>
                         <div className='col-sm-12 col-md-6 col-lg-6'>
-                            <img src={require('../assets/images/graph-bounce-3.gif')} alt="graph" className='img-fluid' />
+                            <img src={require('../assets/images/logoforbody.png')} alt="graph" className='img-fluid' />
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-6'>
                             <ul className="list">
