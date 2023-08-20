@@ -262,7 +262,7 @@ const Home = () => {
                     </div>
                     <div className='row mt-5 align-items-center'>
                         <div className='col-sm-12 col-md-6 col-lg-6'>
-                            <img src={require('../assets/images/iconlogo.png')} alt="graph" className='img-fluid' />
+                            <img src={require('../assets/images/blastrr.png')} alt="graph" className='img-fluid' />
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-6'>
                             <ul className="list">
@@ -335,7 +335,7 @@ const Home = () => {
                     </div>
                     <div className='row'>
                         <div className='col-sm-12 col-md-6 col-lg-6 mt-5'>
-                            <img src={require('../assets/images/blastrr.png')} alt="lllustration" className='img-fluid' />
+                            <img src={require('../assets/images/iconlogo.png')} alt="lllustration" className='img-fluid' />
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-6 mt-5'>
                             <h3 className="heading-title text-center">BUY - HOLD <span className="head_title_animated">EARN<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7"></path></svg></span></h3>
