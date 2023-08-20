@@ -15,18 +15,18 @@ const Footer = () => {
                                 <a href='https://t.me/blastrr' target="_blank" rel="noreferrer"><i className="fab fa-telegram"></i></a>
                             </li>
                             <li>
-                                <a href='https://twitter.com/Blastrrprotocol' target="_blank" rel="noreferrer"><i className="fab fa-twitter"></i></a>
+                                <a href='https://twitter.com/BlastrrBank' target="_blank" rel="noreferrer"><i className="fab fa-twitter"></i></a>
                             </li>
                         </ul>
                     </div>
                     <div className="col-sm=12 col-md-3 col-lg-3">
                         <h3>Contact:</h3>
-                        <a href="mailto:info@gmail.com"> <i className="fas fa-envelope me-2"></i>info@blastrr.com</a>
+                        <a href="mailto:info@blastrr.com"> <i className="fas fa-envelope me-2"></i>info@blastrr.com</a>
                     </div>
                 </div>
                 <div className='row mt-5 mb-3'>
                     <div className='col-sm-12 col-lg-12 text-center'>
-                        <p><span className="footer_copy">Copyright © 2023 - Blastrr Protocol</span></p>
+                        <p><span className="footer_copy">Copyright © 2023 - Blastrr Bank</span></p>
                     </div>
                 </div>
             </div>
