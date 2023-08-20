@@ -682,14 +682,16 @@ const Home = () => {
                                     </h2>
                                     <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                            Originally wallet Blastrr, we decided to simply the name and give it a modern edge. It does what it saysd on the tin, it will blast your balance to the moon.
+                                            Blockchain-based, Low-risk, Autonomous System for Targeted Returns and Residual Revenue (BLASTRR) empowers investors with a decentralized financial solution, generating passive income through carefully curated assets and smart contracts, ensuring steady and reliable income streams.
                                         </div>
                                     </div>
                                 </div>
                                 <div className="accordion-item">
                                     <h2 className="accordion-header" id="headingTwo">
                                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Who is the Blastrr Team?
+                                        "Chef Sandi, an illustrious blockchain developer celebrated across various aliases, has graced the community with the remarkable BLASTRR Bank—a conduit to financial emancipation. This ethos is exemplified by Chef Sandi's ingenious approach to establishing the dBank, realized through the incineration of all LP tokens and perpetual liquidity lock. The deft allocation of the dormant wallet to collect charred tokens and auto LP additions further guarantees everlasting security.
+
+A testament to visionary prudence, the fractional tributes directed towards the treasury and insurance fund underscore Chef Sandi's resolute commitment to future sustenance. As the coup de grâce, Chef Sandi's relinquishing of contractual authority signifies an immutable conclusion—a declaration that the tapestry of the contract remains unaltered in perpetuity, a homage to unwavering integrity and enduring assurance."
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
