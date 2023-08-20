@@ -30,7 +30,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Low Risk with blastrr Insurance Fund (BIF)</p>
+                                            <p>Low Risk with Blastrr Insurance Fund (BIF)</p>
                                         </div>
                                     </div>
                                 </li>
@@ -58,8 +58,8 @@ const Home = () => {
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-5 text-center">
                             <img src={require('../assets/images/logo.png')} alt="logo" className='img-fluid' />
-                            <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 animate-btn my-5'><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy blastrr</a>
-                            <p>Set slippage to 14% on uniswap</p>
+                            <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 animate-btn my-5'><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
+                            <p>Set slippage to 15% on pancakeswap</p>
                             <a href="https://www.dextools.io/app/ether/pair-explorer/0x28cd4a6db738d9ca664bdbdeb7d10318064e6053" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 my-5'><i className="far fa-chart-bar"></i> Look at our healthy chart</a>
                         </div>
                     </div>
@@ -110,17 +110,17 @@ const Home = () => {
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-6">
                             <h4 className="section_title">About</h4>
-                            <p>blastrr provides a decentralized financial asset which rewards users with a sustainable fixed compound interest model through use of it’s unique BLASTRR protocol. </p>
-                            <p>blastrr delivers the industry’s highest fixed APY, paid every 15 minutes, and a simple buy-hold-earn system that grows your $blastrr portfolio in your wallet at a lightning fast pace.</p>
+                            <p>Blastrr provides a decentralized financial asset which rewards users with a sustainable fixed compound interest model through use of it’s unique BLASTRR protocol. </p>
+                            <p>Blastrr delivers the industry’s highest fixed APY, paid every 15 minutes, and a simple buy-hold-earn system that grows your $Blastrr portfolio in your wallet at a lightning fast pace.</p>
                         </div>
                     </div>
                     <div className="row mt-5">
                         <div className="col-sm-12 col-md-12 col-lg-12">
                             <div className="box">
-                                <p>blastrr Contract : <a href="https://etherscan.io/address/0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D" target="_blank" rel="noreferrer"><span className="text-truncate">0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D</span></a></p>
+                                <p>Blastrr Contract : <a href="https://etherscan.io/address/0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D" target="_blank" rel="noreferrer"><span className="text-truncate">0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D</span></a></p>
                             </div>
                             <div className="text-center">
-                                <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy blastrr</a>
+                                <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Nlastrr</a>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@ const Home = () => {
                 <div className='container'>
                     <div className='row'>
                         <div className='col-sm-12 col-lg-12'>
-                            <h3>ʻʻblastrr with it's Self Custody System Gives Investors Security Like No Other Crypto on the Planet.ʼʼ</h3>
+                            <h3>ʻʻBlastrr with it's Self Custody System Gives Investors Security Like No Other Crypto on the Planet.ʼʼ</h3>
                         </div>
                     </div>
                 </div>
@@ -154,7 +154,7 @@ const Home = () => {
                     </div>
                     <div className='row align-items-center mt-5'>
                         <div className='col-sm-12 col-md-5 col-lg-5'>
-                            <h3 className='heading-title'>At the end of the year and with $1,000 USD of $blastrr invested.</h3>
+                            <h3 className='heading-title'>At the end of the year and with $1,000 USD of $Blastrr invested.</h3>
                         </div>
                         <div className='col-sm-12 col-md-2 col-lg-2'>
                             <div className="elementor-icon-wrapper">
@@ -169,14 +169,14 @@ const Home = () => {
                                 <span className='head_title_animated'>
                                     $3,830,454.12 USD
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7"></path></svg>
-                                </span> of $blastrr at 383,000% APY*.
+                                </span> of $Blastrr at 383,000% APY*.
                             </h3>
 
                         </div>
 
                         <div className='col-sm-12 col-md-12 col-lg-12'>
                             <div className='text-center'>
-                                <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy blastrr</a>
+                                <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
                             </div>
                         </div>
                     </div>
@@ -194,21 +194,21 @@ const Home = () => {
                             <div className="token-box">
                                 <i className="fas fa-piggy-bank"></i>
                                 <h4>Blastrr Insurance Fund (BIF)</h4>
-                                <p>The BIF serves as an insurance fund to achieve price stability and longterm sustainability of the blastrr Protocol by maintaining a consistent 0.02355% rebase rate paid to all $blastrr token holders.</p>
+                                <p>The BIF serves as an insurance fund to achieve price stability and longterm sustainability of the Blastrr Protocol by maintaining a consistent 0.02355% rebase rate paid to all $Blastrr token holders.</p>
                             </div>
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-4'>
                             <div className="token-box">
                                 <i className="fas fa-university"></i>
                                 <h4>Blastrr Treasury</h4>
-                                <p>The Treasury provides support to the BIF in the event of an extreme price drop in the $blastrr token. The Treasury also funds investments, new blastrr projects and marketing for blastrr.</p>
+                                <p>The Treasury provides support to the BIF in the event of an extreme price drop in the $blastrr token. The Treasury also funds investments, new Blastrr projects and marketing for Blastrr.</p>
                             </div>
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-4'>
                             <div className="token-box">
                                 <i className="fas fa-fire-alt"></i>
                                 <h4>Auto-Burn</h4>
-                                <p>2.5% of all $Blastrr traded are burnt in the dead wallet. The more that is traded, the more get put into the fire causing the amount of burnt tokens to grow in size reducing the circulating supply and keeping the blastrr protocol stable.</p>
+                                <p>2.5% of all $Blastrr traded are burnt in the dead wallet. The more that is traded, the more get put into the fire causing the amount of burnt tokens to grow in size reducing the circulating supply and keeping the Blastrr protocol stable.</p>
                             </div>
                         </div>
                     </div>
@@ -370,7 +370,7 @@ const Home = () => {
                     </div>
                     <div className='row'>
                         <div className='col-sm-12 col-lg-12 text-center'>
-                            <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy blastrr</a>
+                            <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
                         </div>
                     </div>
                 </div>
@@ -683,24 +683,24 @@ const Home = () => {
                                 <div className="accordion-item">
                                     <h2 className="accordion-header" id="headingTwo">
                                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Who is the blastrr Team?
+                                        Who is the Blastrr Team?
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        The blastrr Team is comprised of highly esteemed group of developers and marketing guru’s. We have many contacts in the cryptosphere allowing us to easily reach influencers and gain an edge vs our competitors.
+                                        The Blastrr Team is comprised of highly esteemed group of developers and marketing guru’s. We have many contacts in the cryptosphere allowing us to easily reach influencers and gain an edge vs our competitors.
                                         </div>
                                     </div>
                                 </div>
                                 <div className="accordion-item">
                                     <h2 className="accordion-header" id="headingFour">
                                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Is blastrr just another Titano Fork?
+                                        Is Blastrr just another Titano Fork?
                                         </button>
                                     </h2>
                                     <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        Our entire protocol’s smart contract was written and developed from scratch from our own competent group of developers. It does not contain any resemblance to Titano’s code or operation as blastrr works on a completely new set of mechanics which allows for complete protocol sustainability. We also have several proprietary mechanisms in place that we have created ourselves which offers many improvements over our competition such as; our blastrr Auto-Liquidity Engine (SALE), the blastrr Insurance Fund (BIF), our Longterm Interest Cycle (LIC), aswell as safeguards in place which secure against malicious hack attempts. blastrr’s tokenomics are also completely unique with our Auto-Burn structure, minimal starting supply and lower 15 minute Epoch’s for a much more linear APY progression of attainability.
+                                        Our entire protocol’s smart contract was written and developed from scratch from our own competent group of developers. It does not contain any resemblance to Titano’s code or operation as Blastrr works on a completely new set of mechanics which allows for complete protocol sustainability. We also have several proprietary mechanisms in place that we have created ourselves which offers many improvements over our competition such as; our Blastrr Auto-Liquidity Engine (SALE), the Blastrr Insurance Fund (BIF), our Longterm Interest Cycle (LIC), aswell as safeguards in place which secure against malicious hack attempts. Blastrr’s tokenomics are also completely unique with our Auto-Burn structure, minimal starting supply and lower 15 minute Epoch’s for a much more linear APY progression of attainability.
                                         </div>
                                     </div>
                                 </div>
@@ -712,7 +712,7 @@ const Home = () => {
                                     </h2>
                                     <div id="collapseFive" className="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        The blastrr protocol has an entirely different more comprehensive mechanism than Titano/Libero or other competitors. Our token supply is far less at only 325,000, auto burn at 2.5%, auto LP every 48 hours and the factor of rebasing at 15min intervals provides a more linear progression of sustainability. Market volume will enter revenue into the Treasury as a 2.5-4.5% tax aswell as enter an additional 5% into the blastrr Insurance Fund which more than offsets the daily interest being awarded. APY will be 100% sustained. Basically put, the more that is traded on a daily basis, the bigger the Treasury & BIF balance grows automatically to aid with longterm sustainability and future growth. We also have a unique and proprietary blastrr Auto-Liquidity Engine (SALE) which automatically injects an additional 4% liquidity every 48 hours automatically to maintain protocol stability and to make sure the APY is upheld for the entire life of blastrr. On top of this we have our proprietary LIC model in place where after the first 12 months the interest rate reduces lower over time allowing for our protocol to be stable.
+                                        The Blastrr protocol has an entirely different more comprehensive mechanism than Titano/Libero or other competitors. Our token supply is far less at only 325,000, auto burn at 2.5%, auto LP every 48 hours and the factor of rebasing at 15min intervals provides a more linear progression of sustainability. Market volume will enter revenue into the Treasury as a 2.5-4.5% tax aswell as enter an additional 5% into the Blastrr Insurance Fund which more than offsets the daily interest being awarded. APY will be 100% sustained. Basically put, the more that is traded on a daily basis, the bigger the Treasury & BIF balance grows automatically to aid with longterm sustainability and future growth. We also have a unique and proprietary Blastrr Auto-Liquidity Engine (SALE) which automatically injects an additional 4% liquidity every 48 hours automatically to maintain protocol stability and to make sure the APY is upheld for the entire life of Blastrr. On top of this we have our proprietary LIC model in place where after the first 12 months the interest rate reduces lower over time allowing for our protocol to be stable.
                                         </div>
                                     </div>
                                 </div>
