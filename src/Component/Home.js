@@ -367,7 +367,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Earn: You will earn 0,9% per day interest, making possible to almost triple your investment every year, and compounding 100 BLASTRR into 290 BLASTRR within 12 months.</p>
+                                            <p>Earn: You will earn 0,009% per day interest, making possible to almost triple your investment every year, and compounding 100 BLASTRR into 290 BLASTRR within 12 months.</p>
                                         </div>
                                     </div>
                                 </li>
