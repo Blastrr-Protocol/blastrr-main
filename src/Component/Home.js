@@ -7,7 +7,7 @@ const Home = () => {
                         <div className="col-sm-12 col-md-6 col-lg-7">
                             {/* <h2 className="head_sub_title">Finally, the World's First <u>Auto-Everything Token</u> to protect your investment as you cash in on a sustainable APY.</h2> */}
                             <h1 className="head_title">
-                                <span>The Highest Paying Coin in Africa -</span><br />
+                                <span>The Highest Paying Coin in Universe -</span><br />
                                 <span className="head_title_animated">
                                     <span className="">100% Liquidity Locked</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M7.7,145.6C109,125,299.9,116.2,401,121.3c42.1,2.2,87.6,11.8,87.3,25.7"></path></svg>
