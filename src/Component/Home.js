@@ -5,7 +5,7 @@ const Home = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12 col-md-6 col-lg-7">
-                            {/* <h2 className="head_sub_title">Finally, the World's First <u>Auto-Everything Token</u> to protect your investment as you cash in on a super-high APY.</h2> */}
+                            {/* <h2 className="head_sub_title">Finally, the World's First <u>Auto-Everything Token</u> to protect your investment as you cash in on a sustainable APY.</h2> */}
                             <h1 className="head_title">
                                 <span>The Highest Paying Coin in Africa -</span><br />
                                 <span className="head_title_animated">
@@ -58,9 +58,9 @@ const Home = () => {
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-5 text-center">
                             <img src={require('../assets/images/logo.png')} alt="logo" className='img-fluid' />
-                            <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 animate-btn my-5'><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
+                            <a href="#" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 animate-btn my-5'><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
                             <p>Set slippage to 15% on pancakeswap</p>
-                            <a href="https://www.dextools.io/app/ether/pair-explorer/0x28cd4a6db738d9ca664bdbdeb7d10318064e6053" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 my-5'><i className="far fa-chart-bar"></i> Look at our healthy chart</a>
+                            <a href="#" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 my-5'><i className="far fa-chart-bar"></i> Look at our healthy chart</a>
                         </div>
                     </div>
                 </div>
@@ -74,10 +74,16 @@ const Home = () => {
                 <div className='container'>
                     <div className='row align-items-center'>
                         <div className="col-sm-12 col-md-6 col-lg-3">
-                            <img src={require('../assets/images/coingecko.png')} className="img-fluid" alt="coingecko" />
+                            <img src={require('../assets/images/coingecko.png')} className="img-fluid" alt="dextools" />
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-3">
-                            <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="coinmarketcap" />
+                            <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="sushiswap" />
+                        </div>
+                        <div className="col-sm-12 col-md-6 col-lg-3">
+                            <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="bscscan" />
+                        </div>
+                        <div className="col-sm-12 col-md-6 col-lg-3">
+                            <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="defilama" />
                         </div>
                     </div>
                 </div>
@@ -104,7 +110,7 @@ const Home = () => {
                             </h3>
                             <h4 className="fixed-annual">Fixed Annual Percentage Yield</h4>
                             <div className="mt-4">
-                                <a href="#section" className="btn btn-primary me-2">Audit</a>
+                                <a href="#section" className="btn btn-primary me-2">Source Code</a>
                                 <a href="#section" className="btn btn-outline">Whitepaper</a>
                             </div>
                         </div>
@@ -117,10 +123,10 @@ const Home = () => {
                     <div className="row mt-5">
                         <div className="col-sm-12 col-md-12 col-lg-12">
                             <div className="box">
-                                <p>Blastrr Contract : <a href="https://etherscan.io/address/0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D" target="_blank" rel="noreferrer"><span className="text-truncate">0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D</span></a></p>
+                                <p>Blastrr Contract : <a href="#" target="_blank" rel="noreferrer"><span className="text-truncate">TBA</span></a></p>
                             </div>
                             <div className="text-center">
-                                <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Nlastrr</a>
+                                <a href="#" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
                             </div>
                         </div>
                     </div>
@@ -167,7 +173,7 @@ const Home = () => {
                             <h3 className='heading-title text-lg-center'>
                                 You can earn up to
                                 <span className='head_title_animated'>
-                                    $3,830,454.12 USD
+                                    $2,900.00 USD
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7"></path></svg>
                                 </span> of $Blastrr at 1900% APY*.
                             </h3>
@@ -194,7 +200,7 @@ const Home = () => {
                             <div className="token-box">
                                 <i className="fas fa-piggy-bank"></i>
                                 <h4>Blastrr Insurance Fund (BIF)</h4>
-                                <p>The BIF serves as an insurance fund to achieve price stability and longterm sustainability of the Blastrr Protocol by maintaining a consistent 0.02355% rebase rate paid to all $Blastrr token holders.</p>
+                                <p>The BIF serves as an insurance fund to achieve price stability and longterm sustainability of the Blastrr Protocol by maintaining a consistent 0.00001% rebase rate paid to all $Blastrr token holders.</p>
                             </div>
                         </div>
                         <div className='col-sm-12 col-md-6 col-lg-4'>
@@ -361,7 +367,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Earn: You will earn 2.3555% per day interest, making possible to double your investment every month, and compounding 100 BLASTRR into 290 BLASTRR within 12 months.</p>
+                                            <p>Earn: You will earn 0,9% per day interest, making possible to almost triple your investment every year, and compounding 100 BLASTRR into 290 BLASTRR within 12 months.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -393,7 +399,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Buy</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">14% tax (14% slippage)</p>
+                                    <p className="elementor-icon-box-description">10% tax (10% slippage)</p>
                                 </div>
                             </div>
                         </div>
@@ -406,7 +412,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Sell</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">16% tax (17% slippage)</p>
+                                    <p className="elementor-icon-box-description">15% tax (15% slippage)</p>
                                 </div>
                             </div>
                         </div>
@@ -418,7 +424,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Automatic LP</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">4% of order fee return to liquidity</p>
+                                    <p className="elementor-icon-box-description">2.5% of order fee return to liquidity</p>
                                 </div>
                             </div>
                         </div>
@@ -433,7 +439,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Automatic LP</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">4% of order fee return to liquidity</p>
+                                    <p className="elementor-icon-box-description">2.5% of order fee return to liquidity</p>
                                 </div>
                             </div>
                         </div>
@@ -445,7 +451,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>LIF</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">5% of order fees are stored in the LIF</p>
+                                    <p className="elementor-icon-box-description">2.5% of order fees are stored in the BIF</p>
                                 </div>
                             </div>
                         </div>
@@ -460,7 +466,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>LIF</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">5% of order fees are stored in the LIF</p>
+                                    <p className="elementor-icon-box-description">2.55% of order fees are stored in the BIF</p>
                                 </div>
                             </div>
                         </div>
@@ -487,7 +493,7 @@ const Home = () => {
                                     <h3 className="elementor-icon-box-title">
                                         <span>Treasury</span>
                                     </h3>
-                                    <p className="elementor-icon-box-description">4.5% of order fees go to the Treasury</p>
+                                    <p className="elementor-icon-box-description">7.5% of order fees go to the Treasury</p>
                                 </div>
                             </div>
                         </div>
