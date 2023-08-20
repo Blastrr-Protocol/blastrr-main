@@ -26,7 +26,7 @@ const Footer = () => {
                 </div>
                 <div className='row mt-5 mb-3'>
                     <div className='col-sm-12 col-lg-12 text-center'>
-                        <p><span className="footer_copy">Copyright © 2022 - Blastrr Protocol</span></p>
+                        <p><span className="footer_copy">Copyright © 2023 - Blastrr Protocol</span></p>
                     </div>
                 </div>
             </div>
