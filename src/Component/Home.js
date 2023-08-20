@@ -5,7 +5,7 @@ const Home = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12 col-md-6 col-lg-7">
-                            {/* <h2 className="head_sub_title">Finally, the World's First <u>Auto-Everyhting Token</u> to protect your investment as you cash in on a super-high APY.</h2> */}
+                            {/* <h2 className="head_sub_title">Finally, the World's First <u>Auto-Everything Token</u> to protect your investment as you cash in on a super-high APY.</h2> */}
                             <h1 className="head_title">
                                 <span>The Highest Paying Coin in Africa -</span><br />
                                 <span className="head_title_animated">
