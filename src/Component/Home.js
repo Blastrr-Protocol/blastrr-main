@@ -20,7 +20,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Highest Sustainable Fixed APY in Crypto – 190%</p>
+                                            <p>Highest Sustainable Fixed APY in Crypto – up to 190%</p>
                                         </div>
                                     </div>
                                 </li>
