@@ -175,14 +175,14 @@ const Home = () => {
                                 <span className='head_title_animated'>
                                     $2,900.00 USD
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7"></path></svg>
-                                </span> of $Blastrr at 1900% APY*.
+                                </span> of $Blastrr at 190% APY*.
                             </h3>
 
                         </div>
 
                         <div className='col-sm-12 col-md-12 col-lg-12'>
                             <div className='text-center'>
-                                <a href="https://app.uniswap.org/#/swap?exactField=input&use=v2&outputCurrency=0x9Bd856c3e02f3d2177c2a1dfD090fD32333B729D&chain=mainnet" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
+                                <a href="#" target="_blank" rel="noreferrer" className="btn btn-primary py-4 px-4 animate-btn my-5"><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
                             </div>
                         </div>
                     </div>
@@ -449,7 +449,7 @@ const Home = () => {
                             <div className='text-lg-end'>
                                 <div className="elementor-icon-box-content">
                                     <h3 className="elementor-icon-box-title">
-                                        <span>LIF</span>
+                                        <span>BIF</span>
                                     </h3>
                                     <p className="elementor-icon-box-description">2.5% of order fees are stored in the BIF</p>
                                 </div>
@@ -464,7 +464,7 @@ const Home = () => {
                             <div className=''>
                                 <div className="elementor-icon-box-content">
                                     <h3 className="elementor-icon-box-title">
-                                        <span>LIF</span>
+                                        <span>BIF</span>
                                     </h3>
                                     <p className="elementor-icon-box-description">2.55% of order fees are stored in the BIF</p>
                                 </div>
@@ -563,7 +563,7 @@ const Home = () => {
                                             <td>
                                                 <div className='d-flex align-items-center'>
                                                     <i aria-hidden="true" className="fas fa-hand-holding tab-icon"></i>
-                                                    <span className='elementor-icon-list-text'>12%/14%</span>
+                                                    <span className='elementor-icon-list-text'>10%/15%</span>
                                                 </div>
                                             </td>
                                             <td>
@@ -583,7 +583,7 @@ const Home = () => {
                                             <td>
                                                 <div className='d-flex align-items-center'>
                                                     <i aria-hidden="true" className="fas fa-question-circle tab-icon"></i>
-                                                    <span className='elementor-icon-list-text'>Anti-Whale 1-5% sales limit</span>
+                                                    <span className='elementor-icon-list-text'>Sustainable APY</span>
                                                 </div>
                                             </td>
                                             <td>
