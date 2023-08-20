@@ -74,16 +74,25 @@ const Home = () => {
                 <div className='container'>
                     <div className='row align-items-center'>
                         <div className="col-sm-12 col-md-6 col-lg-3">
-                            <img src={require('../assets/images/coingecko.png')} className="img-fluid" alt="dextools" />
+                            <img src={require('../assets/images/dextools.png')} className="img-fluid" alt="dextools" />
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-3">
-                            <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="sushiswap" />
+                            <img src={require('../assets/images/pancakeswap.png')} className="img-fluid" alt="pancakeswap" />
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-3">
-                            <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="bscscan" />
+                            <img src={require('../assets/images/bnbchain.png')} className="img-fluid" alt="bscscan" />
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-3">
-                            <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="defilama" />
+                            <img src={require('../assets/images/defilama.png')} className="img-fluid" alt="defilama" />
+                        </div>
+						<div className="col-sm-12 col-md-6 col-lg-3">
+                            <img src={require('../assets/images/metamask.png')} className="img-fluid" alt="metamask" />
+                        </div>
+						<div className="col-sm-12 col-md-6 col-lg-3">
+                            <img src={require('../assets/images/trustwallet.png')} className="img-fluid" alt="trustwallet" />
+                        </div>
+						<div className="col-sm-12 col-md-6 col-lg-3">
+                            <img src={require('../assets/images/poocoin.png')} className="img-fluid" alt="poocoin" />
                         </div>
                     </div>
                 </div>
