@@ -30,7 +30,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Low Risk with blastrr Insurance Fund (EIF)</p>
+                                            <p>Low Risk with blastrr Insurance Fund (BIF)</p>
                                         </div>
                                     </div>
                                 </li>
@@ -98,7 +98,7 @@ const Home = () => {
                         <div className="col-sm-12 col-md-6 col-lg-6 text-center">
                             <h3>
                                 <span className="head_title_animated">
-                                    <span>480,810.4%</span>
+                                    <span>383,810.4%</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9"></path></svg>
                                 </span>
                             </h3>
@@ -207,8 +207,8 @@ const Home = () => {
                         <div className='col-sm-12 col-md-6 col-lg-4'>
                             <div className="token-box">
                                 <i className="fas fa-fire-alt"></i>
-                                <h4>The Fire Pit</h4>
-                                <p>2.5% of all $Blastrr traded are burnt in the Fire Pit. The more that is traded, the more get put into the fire causing the fire pit to grow in size reducing the circulating supply and keeping the blastrr protocol stable.</p>
+                                <h4>Auto-Burn</h4>
+                                <p>2.5% of all $Blastrr traded are burnt in the dead wallet. The more that is traded, the more get put into the fire causing the amount of burnt tokens to grow in size reducing the circulating supply and keeping the blastrr protocol stable.</p>
                             </div>
                         </div>
                     </div>
@@ -361,7 +361,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Earn: You will earn 2.3555% per day interest, making possible to double your investment every month, and compounding 100 CREFI into 400,000 CREFI within 12 months.</p>
+                                            <p>Earn: You will earn 2.3555% per day interest, making possible to double your investment every month, and compounding 100 BLASTRR into 383,000 BLASTRR within 12 months.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -700,7 +700,7 @@ const Home = () => {
                                     </h2>
                                     <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        Our entire protocol’s smart contract was written and developed from scratch from our own competent group of developers. It does not contain any resemblance to Titano’s code or operation as blastrr works on a completely new set of mechanics which allows for complete protocol sustainability. We also have several proprietary mechanisms in place that we have created ourselves which offers many improvements over our competition such as; our blastrr Auto-Liquidity Engine (SALE), the blastrr Insurance Fund (BIF), our Longterm Interest Cycle (LIC), aswell as safeguards in place which secure against malicious hack attempts. blastrr’s tokenomics are also completely unique with our Auto-Burn Fire Pit structure, minimal starting supply and lower 15 minute Epoch’s for a much more linear APY progression of attainability.
+                                        Our entire protocol’s smart contract was written and developed from scratch from our own competent group of developers. It does not contain any resemblance to Titano’s code or operation as blastrr works on a completely new set of mechanics which allows for complete protocol sustainability. We also have several proprietary mechanisms in place that we have created ourselves which offers many improvements over our competition such as; our blastrr Auto-Liquidity Engine (SALE), the blastrr Insurance Fund (BIF), our Longterm Interest Cycle (LIC), aswell as safeguards in place which secure against malicious hack attempts. blastrr’s tokenomics are also completely unique with our Auto-Burn structure, minimal starting supply and lower 15 minute Epoch’s for a much more linear APY progression of attainability.
                                         </div>
                                     </div>
                                 </div>
