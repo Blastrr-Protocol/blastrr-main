@@ -19,10 +19,10 @@ const Header = () => {
                                 <a className="nav-link" href="#section">Whitepaper</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href='https://t.me/blastrr' target="_blank" rel="noreferrer">Telegram</a>
+                                <a className="nav-link" href='https://t.me/blastrrbank' target="_blank" rel="noreferrer">Telegram</a>
                             </li>
                             <li className="nav-item">
-                                <a className="btn btn-primary" href='https://dapp.blastrr.com' target="_blank" rel="noreferrer">Open App</a>
+                                <a className="btn btn-primary" href='https://bank.blastrr.com' target="_blank" rel="noreferrer">Open Bank</a>
                             </li>
                         </ul>
                     </div>
