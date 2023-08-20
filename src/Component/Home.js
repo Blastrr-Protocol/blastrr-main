@@ -689,15 +689,14 @@ const Home = () => {
                                 <div className="accordion-item">
                                     <h2 className="accordion-header" id="headingTwo">
                                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        "Chef Sandi, an illustrious blockchain developer celebrated across various aliases, has graced the community with the remarkable BLASTRR Bank—a conduit to financial emancipation. This ethos is exemplified by Chef Sandi's ingenious approach to establishing the dBank, realized through the incineration of all LP tokens and perpetual liquidity lock. The deft allocation of the dormant wallet to collect charred tokens and auto LP additions further guarantees everlasting security.
-
-A testament to visionary prudence, the fractional tributes directed towards the treasury and insurance fund underscore Chef Sandi's resolute commitment to future sustenance. As the coup de grâce, Chef Sandi's relinquishing of contractual authority signifies an immutable conclusion—a declaration that the tapestry of the contract remains unaltered in perpetuity, a homage to unwavering integrity and enduring assurance."
+                                        Who is behind Blastrr bank?
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        The Blastrr Team is comprised of highly esteemed group of developers and marketing guru’s. We have many contacts in the cryptosphere allowing us to easily reach influencers and gain an edge vs our competitors.
-                                        </div>
+                                                                                "Chef Sandi, an illustrious blockchain developer celebrated across various aliases, has graced the community with the remarkable BLASTRR Bank—a conduit to financial emancipation. This ethos is exemplified by Chef Sandi's ingenious approach to establishing the dBank, realized through the incineration of all LP tokens and perpetual liquidity lock. The deft allocation of the dormant wallet to collect charred tokens and auto LP additions further guarantees everlasting security.
+
+A testament to visionary prudence, the fractional tributes directed towards the treasury and insurance fund underscore Chef Sandi's resolute commitment to future sustenance. As the coup de grâce, Chef Sandi's relinquishing of contractual authority signifies an immutable conclusion—a declaration that the tapestry of the contract remains unaltered in perpetuity, a homage to unwavering integrity and enduring assurance."
                                     </div>
                                 </div>
                                 <div className="accordion-item">
