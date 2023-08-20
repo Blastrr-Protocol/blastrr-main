@@ -74,6 +74,9 @@ const Home = () => {
                 <div className='container'>
                     <div className='row align-items-center'>
                         <div className="col-sm-12 col-md-6 col-lg-3">
+                            <img src={require('../assets/images/coinmarketcap.png')} className="img-fluid" alt="coinmarketcap" />
+                        </div>
+						<div className="col-sm-12 col-md-6 col-lg-3">
                             <img src={require('../assets/images/dextools.png')} className="img-fluid" alt="dextools" />
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-3">
