@@ -57,7 +57,6 @@ const Home = () => {
                             </ul>
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-5 text-center">
-                            <img src={require('../assets/images/launchpass.png')} alt="logo" className='img-fluid' />
                             <a href="#" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 animate-btn my-5'><i className="far fa-arrow-alt-circle-right"></i> Click Here to Buy Blastrr</a>
                             <p>Set slippage to 15% on pancakeswap</p>
                             <a href="#" target="_blank" rel="noreferrer" className='btn btn-primary py-4 px-4 my-5'><i className="far fa-chart-bar"></i> Look at our healthy chart</a>
