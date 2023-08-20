@@ -20,7 +20,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Highest Fixed APY in Crypto – 383,025%</p>
+                                            <p>Highest Fixed APY in Crypto – 383,000%</p>
                                         </div>
                                     </div>
                                 </li>
@@ -98,7 +98,7 @@ const Home = () => {
                         <div className="col-sm-12 col-md-6 col-lg-6 text-center">
                             <h3>
                                 <span className="head_title_animated">
-                                    <span>383,810.4%</span>
+                                    <span>383,000%</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9"></path></svg>
                                 </span>
                             </h3>
@@ -169,7 +169,7 @@ const Home = () => {
                                 <span className='head_title_animated'>
                                     $3,830,454.12 USD
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7"></path></svg>
-                                </span> of $blastrr at 383,025.80% APY*.
+                                </span> of $blastrr at 383,000% APY*.
                             </h3>
 
                         </div>
@@ -351,7 +351,7 @@ const Home = () => {
                                             <i className="fas fa-check icon"></i>
                                         </div>
                                         <div className="feature-text">
-                                            <p>Hold: Just by holding your $BLASTRR tokens you earn rebase rewards every 15 minutes. Growing your balance at a compouded rate of 400,000% APY.</p>
+                                            <p>Hold: Just by holding your $BLASTRR tokens you earn rebase rewards every 15 minutes. Growing your balance at a compouded rate of 383,000% APY.</p>
                                         </div>
                                     </div>
                                 </li>
