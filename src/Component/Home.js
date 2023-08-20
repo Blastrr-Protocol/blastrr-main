@@ -330,7 +330,7 @@ const Home = () => {
                 <div className='container'>
                     <div className='row'>
                         <div className='col-sm-12 col-lg-12 text-center'>
-                            <h3 className='section_head'>$blastrr 3 Steps to Financial Freedom</h3>
+                            <h3 className='section_head'>$blastrr Easy Financial Freedom</h3>
                         </div>
                     </div>
                     <div className='row'>
